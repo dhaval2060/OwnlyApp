@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>249359433952-vpb3q404fto7othe7eo7qb5m11igehnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.249359433952-vpb3q404fto7othe7eo7qb5m11igehnh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWXCrYSKkxs-8dCfFCnjL0_VrmTPXsPRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>249359433952</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.syncitt.syncittapp</string>
+	<key>PROJECT_ID</key>
+	<string>syncittapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>syncittapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:249359433952:ios:6574d0a2889873cd</string>
+	<key>DATABASE_URL</key>
+	<string>https://syncittapp.firebaseio.com</string>
+</dict>
+</plist>
