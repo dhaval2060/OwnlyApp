@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057447651047",
+    "firebase_url": "https://syncitt.firebaseio.com",
+    "project_id": "syncitt",
+    "storage_bucket": "syncitt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057447651047:android:318a9b5595dcc83067a442",
+        "android_client_info": {
+          "package_name": "com.syncitt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057447651047-s8fi0suoo0lpsrndu0ab2sqbsmcrkm1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTj48J-o1T4J2qG0181jUAWEoaB7aWtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057447651047-s8fi0suoo0lpsrndu0ab2sqbsmcrkm1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
